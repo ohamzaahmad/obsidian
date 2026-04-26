@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-27 00.48.56.excalidraw.md"
+                "file": "Excalidraw/new.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-27 00.48.56.excalidraw"
+              "title": "new"
             }
           }
         ]
@@ -204,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04dd31f70bed6e9a",
+  "active": "4780f0b95a43845b",
   "lastOpenFiles": [
     "Welcome.md",
-    "Excalidraw/Drawing 2026-04-27 00.48.56.excalidraw.md",
+    "Excalidraw/new.md",
     "Excalidraw"
   ]
 }

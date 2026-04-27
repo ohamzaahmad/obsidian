@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "b073e04275205a99",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ac66236adca18f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c15e6176df25eac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task"
+            }
+          },
+          {
+            "id": "a6d691cd65330dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bkf/Fabrics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fabrics"
+            }
+          },
+          {
+            "id": "85a729ba2a541457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Documents Required from University.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Documents Required from University"
+            }
+          },
+          {
+            "id": "28ad9253889d69f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Explore/Books to read.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Books to read"
+            }
+          },
+          {
+            "id": "7bf2d543e8573a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Market/Expected System Prices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expected System Prices"
+            }
+          },
+          {
+            "id": "56673e1f980b5c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Explore/To Explore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Explore"
+            }
+          },
+          {
+            "id": "b70b5de534672c09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task"
+            }
+          },
+          {
+            "id": "656103b95f80c921",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-27 19.26.49.excalidraw"
+            }
+          },
+          {
+            "id": "d6ab2958dcfaef75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2074a5b58571f73",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "54a54d3ab7c162c4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "8eaf0abab2087672",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "fde5ab41e72566f5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "99fd6cb700c59ad9",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "eda90f5b56fddb86",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f7b44648d22a4411",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "69f2e3affe740b33",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Gym.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e1d697f3714825e8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Gym.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "333692479e6329e0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Gym.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "e287516e4cf83215",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "d6ab2958dcfaef75",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
+    "Task.md",
+    "Excalidraw",
+    "Explore/Books to read.md",
+    "Market",
+    "Explore/Movies & Seasons.md",
+    "University",
+    "Explore",
+    "Explore/To Explore.md",
+    "Market/Expected System Prices.md",
+    "University/Documents Required from University.md",
+    "Bkf/Fabrics.md",
+    "Bkf",
+    "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
+    "Untitled.base",
+    "2026-04-27.md",
+    "/Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
+    "/Excalidraw"
+  ]
+}

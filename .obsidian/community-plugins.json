@@ -1,7 +1,4 @@
 [
-  "obsidian-excalidraw-plugin",
-  "templater-obsidian",
-  "obsidian-tasks-plugin",
   "obsidian-git",
-  "calendar"
+  "obsidian-excalidraw-plugin"
 ]

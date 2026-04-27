@@ -104,9 +104,31 @@
               "icon": "lucide-file",
               "title": "Task"
             }
+          },
+          {
+            "id": "656103b95f80c921",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-27 19.26.49.excalidraw"
+            }
+          },
+          {
+            "id": "d6ab2958dcfaef75",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -264,24 +286,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b70b5de534672c09",
+  "active": "d6ab2958dcfaef75",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
+    "Task.md",
+    "Excalidraw",
+    "Explore/Books to read.md",
     "Market",
     "Explore/Movies & Seasons.md",
     "University",
     "Explore",
     "Explore/To Explore.md",
     "Market/Expected System Prices.md",
-    "Explore/Books to read.md",
     "University/Documents Required from University.md",
     "Bkf/Fabrics.md",
-    "Task.md",
     "Bkf",
     "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
     "Untitled.base",
     "2026-04-27.md",
     "/Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
-    "Excalidraw",
     "/Excalidraw"
   ]
 }

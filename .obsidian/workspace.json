@@ -1,20 +1,22 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "72e428aaa1850599",
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "f9a65b15ec1fc2ce",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "04dd31f70bed6e9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-27 19.26.49.excalidraw"
             }
           }
         ]
@@ -197,11 +199,10 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "04dd31f70bed6e9a",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
     "Task.md",

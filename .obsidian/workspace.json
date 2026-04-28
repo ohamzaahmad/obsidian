@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "72e428aaa1850599",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "f9a65b15ec1fc2ce",
+        "id": "191edd1d34f8579a",
         "type": "tabs",
         "children": [
           {
-            "id": "04dd31f70bed6e9a",
+            "id": "891490e9bc4008fc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md"
+                "file": "Task.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-27 19.26.49.excalidraw"
+              "icon": "lucide-file",
+              "title": "Task"
             }
           }
         ]
@@ -202,18 +204,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04dd31f70bed6e9a",
+  "active": "891490e9bc4008fc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
+    "Explore/Books to read.md",
+    "Explore/To Explore.md",
     "Task.md",
+    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
     "Excalidraw/Drawing 2026-04-27 00.48.56.excalidraw.md",
     "University/Documents Required from University.md",
     "University",
     "Market/Expected System Prices.md",
     "Market",
-    "Explore/To Explore.md",
     "Explore/Movies & Seasons.md",
-    "Explore/Books to read.md",
     "Explore",
     "Bkf/Fabrics.md",
     "Bkf",

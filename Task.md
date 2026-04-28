@@ -4,4 +4,4 @@
      - [ ] take intership letter
      - [ ] university project work needed
      - [ ] bhai jan books to take
-     - [ ] code with mosh
+     - [ ] code with mosh (find it's lectures free)

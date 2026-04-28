@@ -116,19 +116,8 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2026-04-27 19.26.49.excalidraw"
             }
-          },
-          {
-            "id": "d6ab2958dcfaef75",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,10 +275,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d6ab2958dcfaef75",
+  "active": "c15e6176df25eac7",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
     "Task.md",
+    "/Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
+    "/Excalidraw",
     "Excalidraw",
     "Explore/Books to read.md",
     "Market",
@@ -304,7 +295,6 @@
     "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
     "Untitled.base",
     "2026-04-27.md",
-    "/Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
-    "/Excalidraw"
+    "/Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md"
   ]
 }

@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "72e428aaa1850599",
     "type": "split",
     "children": [
       {
-        "id": "191edd1d34f8579a",
+        "id": "f9a65b15ec1fc2ce",
         "type": "tabs",
         "children": [
           {
-            "id": "891490e9bc4008fc",
+            "id": "04dd31f70bed6e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gym update.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gym update"
+            }
+          },
+          {
+            "id": "39b4ed8003aa8ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "Task"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,36 +205,37 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "891490e9bc4008fc",
+  "active": "39b4ed8003aa8ebc",
   "lastOpenFiles": [
-    "Explore/Books to read.md",
-    "Explore/To Explore.md",
-    "Task.md",
-    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-27 00.48.56.excalidraw.md",
     "University/Documents Required from University.md",
     "University",
+    "Task.md",
     "Market/Expected System Prices.md",
     "Market",
+    "Explore/To Explore.md",
     "Explore/Movies & Seasons.md",
+    "Explore/Books to read.md",
     "Explore",
     "Bkf/Fabrics.md",
     "Bkf",
-    "Welcome.md",
-    "Excalidraw"
+    "Gym update.md",
+    "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/new.md",
+    "Welcome.md"
   ]
 }

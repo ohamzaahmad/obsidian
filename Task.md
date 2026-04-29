@@ -5,3 +5,4 @@
      - [ ] university project work needed
      - [x] bhai jan books to take
      - [ ] code with mosh (find it's lectures free)
+     - [ ] need camera in home

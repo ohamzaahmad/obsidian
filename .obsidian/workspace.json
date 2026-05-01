@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnin/js/Bro Code JS.md",
+                "file": "Task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bro Code JS"
+              "title": "Task"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e910d03facd9199e",
@@ -207,9 +206,9 @@
   },
   "active": "84e2d78d838a8e1a",
   "lastOpenFiles": [
+    "learnin/js/Bro Code JS.md",
     "learnin/js/React Js.md",
     "Untitled.canvas",
-    "learnin/js/Bro Code JS.md",
     "conflict-files-obsidian-git.md",
     "learnin/js",
     "learnin",

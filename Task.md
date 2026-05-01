@@ -6,3 +6,6 @@
      - [x] bhai jan books to take
      - [ ] code with mosh (find it's lectures free)
      - [ ] need camera in home
+
+
+     - [ ] need to merge in the main (OSL) changes done on Friday

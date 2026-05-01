@@ -103,4 +103,6 @@ condition ? true : false;
 string.slice(start, end)
 ```
 
+ **Method Chaining**
+ we can method one after another one
  

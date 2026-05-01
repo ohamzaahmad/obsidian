@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8ff62efc03c16f1",
+        "id": "e4b6d51286c9275e",
         "type": "tabs",
         "children": [
           {
-            "id": "a58fd24467d75081",
+            "id": "84e2d78d838a8e1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Bro Code JS"
             }
-          },
-          {
-            "id": "b59db68325ad997e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +205,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b59db68325ad997e",
+  "active": "84e2d78d838a8e1a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "learnin/js/React Js.md",
+    "Untitled.canvas",
     "learnin/js/Bro Code JS.md",
+    "conflict-files-obsidian-git.md",
     "learnin/js",
     "learnin",
     "Bkf/Fabrics.md",

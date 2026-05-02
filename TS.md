@@ -1,0 +1,5 @@
+- [ ] about
+- [ ] gallery
+- [ ] sample images
+- [ ] catalogue (s&s and samsans integeration)
+- [ ] FAQs

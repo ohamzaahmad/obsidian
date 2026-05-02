@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9a65b15ec1fc2ce",
+        "id": "1238dbdc1d05de19",
         "type": "tabs",
         "children": [
           {
-            "id": "39b4ed8003aa8ebc",
+            "id": "0de32283cdd65a7a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "TS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "TS"
             }
           }
         ]
@@ -204,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39b4ed8003aa8ebc",
+  "active": "0de32283cdd65a7a",
   "lastOpenFiles": [
     "TS.md",
     "Task.md",

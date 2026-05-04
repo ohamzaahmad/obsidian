@@ -11,17 +11,14 @@
             "id": "84e2d78d838a8e1a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "maps.canvas",
-                "viewState": {
-                  "x": -341.7293323785657,
-                  "y": -471.7283442591301,
-                  "zoom": -0.16666666666666663
-                }
+                "file": "learnin/js/Bro Code JS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "maps"
+              "icon": "lucide-file",
+              "title": "Bro Code JS"
             }
           }
         ]
@@ -81,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e910d03facd9199e",
@@ -209,9 +207,9 @@
   },
   "active": "84e2d78d838a8e1a",
   "lastOpenFiles": [
-    "2026-05-04.md",
-    "maps.canvas",
     "Task.md",
+    "maps.canvas",
+    "2026-05-04.md",
     "TS.md",
     "learnin/js/Bro Code JS.md",
     "learnin/js/React Js.md",

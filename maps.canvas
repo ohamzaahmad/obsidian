@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"a431a2ba48ed68e1","x":-800,"y":-740,"width":400,"height":500,"color":"3","type":"file","file":"Task.md"},
-		{"id":"4d8a9da509fb49d5","x":-300,"y":-890,"width":400,"height":400,"type":"file","file":"TS.md"}
+		{"id":"a431a2ba48ed68e1","type":"file","file":"Task.md","x":-800,"y":-740,"width":400,"height":500,"color":"3"},
+		{"id":"4d8a9da509fb49d5","type":"file","file":"TS.md","x":-300,"y":-1180,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"09142915d28ff64e","fromNode":"4d8a9da509fb49d5","fromSide":"bottom","toNode":"a431a2ba48ed68e1","toSide":"right"}
+		{"id":"8ea951f8e96dc904","fromNode":"a431a2ba48ed68e1","fromSide":"top","toNode":"4d8a9da509fb49d5","toSide":"bottom"}
 	]
 }

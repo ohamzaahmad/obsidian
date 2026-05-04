@@ -105,4 +105,8 @@ string.slice(start, end)
 
  **Method Chaining**
  we can method one after another one
- 
+
+**function**
+- \`\` backtick also know as the template literal
+- in function we set the parameters and when we call the function, we arguments which gonna be added in it
+- 

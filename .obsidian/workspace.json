@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e4b6d51286c9275e",
+        "id": "9e3b2782db424675",
         "type": "tabs",
         "children": [
           {
-            "id": "84e2d78d838a8e1a",
+            "id": "9f40b97951569d2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "learnin/js/Bro Code JS.md",
-                "mode": "source",
-                "source": false
+                "file": "maps.canvas",
+                "viewState": {
+                  "x": -1389.8892607058065,
+                  "y": 2652.6428422037848,
+                  "zoom": -1.3333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "Bro Code JS"
+              "icon": "lucide-layout-dashboard",
+              "title": "maps"
             }
           }
         ]
@@ -78,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e910d03facd9199e",
@@ -205,13 +207,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84e2d78d838a8e1a",
+  "active": "9f40b97951569d2b",
   "lastOpenFiles": [
+    "learnin/js/Bro Code JS.md",
     "Task.md",
     "maps.canvas",
     "2026-05-04.md",
     "TS.md",
-    "learnin/js/Bro Code JS.md",
     "learnin/js/React Js.md",
     "conflict-files-obsidian-git.md",
     "learnin/js",

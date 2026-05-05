@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9e3b2782db424675",
+        "id": "f58fb8059e17ca94",
         "type": "tabs",
         "children": [
           {
-            "id": "9f40b97951569d2b",
+            "id": "25a3e6a4c1fbc2b2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "maps.canvas",
                 "viewState": {
-                  "x": -596.6070946800951,
-                  "y": -565.7185531496685,
-                  "zoom": -1.6666666666666665
+                  "x": -1440,
+                  "y": 969,
+                  "zoom": -2.6107635350333083
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -207,11 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f40b97951569d2b",
+  "active": "25a3e6a4c1fbc2b2",
   "lastOpenFiles": [
+    "maps.canvas",
     "learnin/js/Bro Code JS.md",
     "Task.md",
-    "maps.canvas",
     "2026-05-04.md",
     "TS.md",
     "learnin/js/React Js.md",

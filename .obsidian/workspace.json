@@ -1,27 +1,24 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "72e428aaa1850599",
     "type": "split",
     "children": [
       {
-        "id": "f58fb8059e17ca94",
+        "id": "1238dbdc1d05de19",
         "type": "tabs",
         "children": [
           {
-            "id": "25a3e6a4c1fbc2b2",
+            "id": "0de32283cdd65a7a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "maps.canvas",
-                "viewState": {
-                  "x": -1440,
-                  "y": 969,
-                  "zoom": -2.6107635350333083
-                }
+                "file": "University/project.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "maps"
+              "icon": "lucide-file",
+              "title": "project"
             }
           }
         ]
@@ -193,44 +190,45 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25a3e6a4c1fbc2b2",
+  "active": "0de32283cdd65a7a",
   "lastOpenFiles": [
-    "maps.canvas",
-    "learnin/js/Bro Code JS.md",
+    "Bkf/Fabrics.md",
     "Task.md",
-    "2026-05-04.md",
     "TS.md",
+    "University/project.md",
+    "maps.canvas",
+    "2026-05-04.md",
     "learnin/js/React Js.md",
-    "conflict-files-obsidian-git.md",
+    "learnin/js/Bro Code JS.md",
     "learnin/js",
     "learnin",
-    "Bkf/Fabrics.md",
-    "Explore/To Explore.md",
-    "Explore/Movies & Seasons.md",
-    "Market/Expected System Prices.md",
-    "Explore/Books to read.md",
-    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-27 00.48.56.excalidraw.md",
     "University/Documents Required from University.md",
     "University",
+    "Market/Expected System Prices.md",
     "Market",
+    "Explore/To Explore.md",
+    "Explore/Movies & Seasons.md",
+    "Explore/Books to read.md",
     "Explore",
     "Bkf",
-    "Welcome.md",
-    "Excalidraw"
+    "Gym update.md",
+    "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/new.md",
+    "Welcome.md"
   ]
 }

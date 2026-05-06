@@ -2,3 +2,4 @@
 - [ ] dashboard
 - [ ] system config
 - [ ] RBAC
+- [ ] currently the system don't know that there can be multipl classes at the same time because there are multiple classes and teacher which can teach at a same time

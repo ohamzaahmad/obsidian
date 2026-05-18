@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/project.md",
+                "file": "TS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project"
+              "title": "TS"
             }
           }
         ]
@@ -182,10 +182,10 @@
   "active": "c15e6176df25eac7",
   "lastOpenFiles": [
     "Task.md",
+    "University/project.md",
     "maps.canvas",
     "/University/project.md",
     "/University",
-    "University/project.md",
     "/Task.md",
     "/Bkf/Fabrics.md",
     "/Bkf",

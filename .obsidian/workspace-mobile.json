@@ -11,14 +11,17 @@
             "id": "c15e6176df25eac7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "University/project.md",
-                "mode": "source",
-                "source": false
+                "file": "google keynotes.canvas",
+                "viewState": {
+                  "x": 49.446104356636965,
+                  "y": 174.187666918695,
+                  "zoom": -0.007189590688872891
+                }
               },
-              "icon": "lucide-file",
-              "title": "project"
+              "icon": "lucide-layout-dashboard",
+              "title": "google keynotes"
             }
           }
         ]
@@ -179,13 +182,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e287516e4cf83215",
+  "active": "c15e6176df25eac7",
   "lastOpenFiles": [
+    "University/project.md",
     "google keynotes.canvas",
     "/google keynotes.canvas",
     "ST.md",
     "Task.md",
-    "University/project.md",
     "maps.canvas",
     "/University/project.md",
     "/University",

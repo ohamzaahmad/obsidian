@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ST.md",
+                "file": "University/project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ST"
+              "title": "project"
             }
           }
         ]
@@ -179,8 +179,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c15e6176df25eac7",
+  "active": "e287516e4cf83215",
   "lastOpenFiles": [
+    "google keynotes.canvas",
+    "/google keynotes.canvas",
+    "ST.md",
     "Task.md",
     "University/project.md",
     "maps.canvas",
@@ -196,7 +199,6 @@
     "/TS.md",
     "2026-05-04.md",
     "/2026-05-04.md",
-    "ST.md",
     "learnin/js/Bro Code JS.md",
     "learnin/js/React Js.md",
     "/learnin/js/React Js.md",

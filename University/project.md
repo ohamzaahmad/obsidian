@@ -1,6 +1,6 @@
 - [x] login
 - [x] dashboard
 - [x] system config
-- [ ] RBAC
+- [x] RBAC
 - [x] currently the system don't know that there can be multipl classes at the same time because there are multiple classes and teacher which can teach at a same time
-- [ ] tour guide using driver js
+- [x] tour guide using driver js

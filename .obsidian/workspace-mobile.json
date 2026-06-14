@@ -11,14 +11,15 @@
             "id": "89a1060e654fce52",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "learnin/Explore/To Explore.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "To Explore"
             }
           }
         ]
@@ -103,18 +104,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "89a1060e654fce52",
+  "active": "87d03b3f4529a041",
   "lastOpenFiles": [
+    "Office",
+    "2026-05-04.md",
+    "learnin/Explore/To Explore.md",
+    "learnin/Explore/Movies & Seasons.md",
+    "learnin/Explore/Books to read.md",
+    "Office/maps.canvas",
     "gitignore.txt",
     "Task.md",
-    "maps.canvas",
-    "2026-05-04.md",
     "Work/ST.md",
     "University/Documents Required from University.md",
     "Untitled.base",
     "Untitled Kanban.md",
     "Untitled.md",
-    "Bkf/Fabrics.md",
+    "Work/Bkf/Fabrics.md",
     "Excalidraw/Drawing 2026-06-14 13.49.24.excalidraw.md",
     "Market/Expected System Prices.md",
     "University/project.md",
@@ -140,10 +145,6 @@
     "learnin",
     "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
     "/Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
-    "/Excalidraw",
-    "Explore/Books to read.md",
-    "Explore/Movies & Seasons.md",
-    "Explore/To Explore.md",
     "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md"
   ]
 }

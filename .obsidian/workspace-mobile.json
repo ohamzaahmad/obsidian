@@ -25,12 +25,17 @@
             "id": "62fecaca665fe997",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-14 13.49.24.excalidraw.md"
+                "file": "google keynotes.canvas",
+                "viewState": {
+                  "x": -210.37398666895132,
+                  "y": 114.64462676465226,
+                  "zoom": -1.214493960409522
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-14 13.49.24.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "google keynotes"
             }
           }
         ],
@@ -189,13 +194,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "remotely-save:Remotely Save": false,
+      "graph:Open graph view": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "62fecaca665fe997",
   "lastOpenFiles": [
-    "University/Documents Required from University.md",
     "Excalidraw/Drawing 2026-06-14 13.49.24.excalidraw.md",
+    "University/Documents Required from University.md",
     "Excalidraw",
     "Market/Expected System Prices.md",
     "Task.md",

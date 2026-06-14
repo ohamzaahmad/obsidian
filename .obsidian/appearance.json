@@ -1,4 +1,8 @@
 {
-  "cssTheme": "Obsidian gruvbox",
-  "accentColor": "#bf70ff"
+  "cssTheme": "Paper Source",
+  "accentColor": "",
+  "theme": "obsidian",
+  "floatingNavigation": false,
+  "baseFontSize": 15,
+  "baseFontSizeAction": false
 }

@@ -4,5 +4,7 @@
   "theme": "obsidian",
   "floatingNavigation": false,
   "baseFontSize": 13,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Source Code Pro"
 }

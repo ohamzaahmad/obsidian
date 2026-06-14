@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bkf/Fabrics.md",
+                "file": "Task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fabrics"
+              "title": "Task"
             }
           }
         ],
@@ -198,6 +198,7 @@
   },
   "active": "62fecaca665fe997",
   "lastOpenFiles": [
+    "Bkf/Fabrics.md",
     "Excalidraw/Drawing 2026-06-14 13.49.24.excalidraw.md",
     "Market/Expected System Prices.md",
     "University/Documents Required from University.md",
@@ -233,7 +234,6 @@
     "Market",
     "Explore/Movies & Seasons.md",
     "Explore/To Explore.md",
-    "Bkf/Fabrics.md",
     "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
     "2026-04-27.md",
     "/Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md"

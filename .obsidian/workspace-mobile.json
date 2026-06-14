@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ST.md",
+                "file": "Task.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ST"
+              "title": "Task"
             }
           }
         ]
@@ -106,8 +106,8 @@
   },
   "active": "89a1060e654fce52",
   "lastOpenFiles": [
-    "Task.md",
     "Work/ST.md",
+    "Task.md",
     "learnin/Explore/To Explore.md",
     "Office",
     "2026-05-04.md",

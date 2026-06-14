@@ -11,10 +11,15 @@
             "id": "89a1060e654fce52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Task.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Task"
             }
           }
         ]
@@ -95,21 +100,17 @@
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "graph:Open graph view": false,
-      "publish:Publish changes...": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "87d03b3f4529a041",
+  "active": "89a1060e654fce52",
   "lastOpenFiles": [
+    "maps.canvas",
+    "2026-05-04.md",
+    "Work/ST.md",
     "University/Documents Required from University.md",
     "Untitled.base",
-    "Work/ST.md",
     "Untitled Kanban.md",
     "Untitled.md",
     "Task.md",
@@ -120,7 +121,6 @@
     "learnin/google keynotes.canvas",
     "Work",
     "Excalidraw",
-    "maps.canvas",
     "/google keynotes.canvas",
     "/University/project.md",
     "/University",
@@ -132,7 +132,6 @@
     "/learnin/js",
     "/learnin",
     "/TS.md",
-    "2026-05-04.md",
     "/2026-05-04.md",
     "learnin/js/Bro Code JS.md",
     "learnin/js/React Js.md",

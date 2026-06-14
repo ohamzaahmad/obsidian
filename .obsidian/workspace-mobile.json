@@ -11,20 +11,30 @@
             "id": "c15e6176df25eac7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "maps.canvas",
-                "viewState": {
-                  "x": -2955.079382883894,
-                  "y": -232.4407152468391,
-                  "zoom": -1.1794899119151592
-                }
+                "file": "University/Documents Required from University.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "maps"
+              "icon": "lucide-file",
+              "title": "Documents Required from University"
+            }
+          },
+          {
+            "id": "62fecaca665fe997",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-14 13.49.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-14 13.49.24.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,14 +192,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c15e6176df25eac7",
+  "active": "62fecaca665fe997",
   "lastOpenFiles": [
+    "University/Documents Required from University.md",
+    "Excalidraw/Drawing 2026-06-14 13.49.24.excalidraw.md",
+    "Excalidraw",
+    "Market/Expected System Prices.md",
+    "Task.md",
     "google keynotes.canvas",
+    "maps.canvas",
     "University/project.md",
     "/google keynotes.canvas",
     "ST.md",
-    "Task.md",
-    "maps.canvas",
     "/University/project.md",
     "/University",
     "/Task.md",
@@ -210,14 +224,11 @@
     "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
     "/Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
     "/Excalidraw",
-    "Excalidraw",
     "Explore/Books to read.md",
     "Market",
     "Explore/Movies & Seasons.md",
     "University",
     "Explore/To Explore.md",
-    "Market/Expected System Prices.md",
-    "University/Documents Required from University.md",
     "Bkf/Fabrics.md",
     "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
     "2026-04-27.md",

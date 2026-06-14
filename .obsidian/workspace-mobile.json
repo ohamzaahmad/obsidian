@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7ac66236adca18f9",
+        "id": "3382df40bfa886a7",
         "type": "tabs",
         "children": [
           {
-            "id": "c15e6176df25eac7",
+            "id": "89a1060e654fce52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Documents Required from University.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Documents Required from University"
-            }
-          },
-          {
-            "id": "62fecaca665fe997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Task"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -46,19 +27,6 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "54a54d3ab7c162c4",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "alphabetical",
-            "autoReveal": false
-          },
-          "icon": "lucide-folder-closed",
-          "title": "Files"
-        }
-      },
-      {
         "id": "8eaf0abab2087672",
         "type": "leaf",
         "state": {
@@ -66,28 +34,13 @@
           "state": {
             "query": "",
             "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
+            "explainSearch": true,
+            "collapseAll": true,
+            "extraContext": true,
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
           "title": "Search"
-        }
-      },
-      {
-        "id": "fde5ab41e72566f5",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true,
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-tags",
-          "title": "Tags"
         }
       },
       {
@@ -105,70 +58,25 @@
         }
       },
       {
-        "id": "eda90f5b56fddb86",
+        "id": "87d03b3f4529a041",
         "type": "leaf",
         "state": {
-          "type": "bookmarks",
-          "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "f7b44648d22a4411",
     "type": "mobile-drawer",
     "children": [
-      {
-        "id": "69f2e3affe740b33",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Gym.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "links-coming-in",
-          "title": "Backlinks"
-        }
-      },
-      {
-        "id": "e1d697f3714825e8",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "maps.canvas",
-            "linksCollapsed": true,
-            "unlinkedCollapsed": true
-          },
-          "icon": "links-going-out",
-          "title": "Outgoing links"
-        }
-      },
-      {
-        "id": "333692479e6329e0",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "maps.canvas",
-            "followCursor": false,
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-list",
-          "title": "Outline"
-        }
-      },
       {
         "id": "e287516e4cf83215",
         "type": "leaf",
@@ -180,7 +88,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,23 +101,27 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "62fecaca665fe997",
+  "active": "87d03b3f4529a041",
   "lastOpenFiles": [
+    "University/Documents Required from University.md",
+    "Untitled.base",
+    "Work/ST.md",
+    "Untitled Kanban.md",
+    "Untitled.md",
+    "Task.md",
     "Bkf/Fabrics.md",
     "Excalidraw/Drawing 2026-06-14 13.49.24.excalidraw.md",
     "Market/Expected System Prices.md",
-    "University/Documents Required from University.md",
     "University/project.md",
     "learnin/google keynotes.canvas",
     "Work",
     "Excalidraw",
-    "Task.md",
     "maps.canvas",
     "/google keynotes.canvas",
-    "Work/ST.md",
     "/University/project.md",
     "/University",
     "/Task.md",
@@ -231,11 +143,8 @@
     "/Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
     "/Excalidraw",
     "Explore/Books to read.md",
-    "Market",
     "Explore/Movies & Seasons.md",
     "Explore/To Explore.md",
-    "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
-    "2026-04-27.md",
-    "/Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md"
+    "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md"
   ]
 }

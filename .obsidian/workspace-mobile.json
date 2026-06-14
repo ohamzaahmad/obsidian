@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "google keynotes.canvas",
+                "file": "maps.canvas",
                 "viewState": {
-                  "x": 49.446104356636965,
-                  "y": 174.187666918695,
-                  "zoom": -0.007189590688872891
+                  "x": -2955.079382883894,
+                  "y": -232.4407152468391,
+                  "zoom": -1.1794899119151592
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "google keynotes"
+              "title": "maps"
             }
           }
         ]
@@ -134,8 +134,8 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Gym.md",
-            "linksCollapsed": false,
+            "file": "maps.canvas",
+            "linksCollapsed": true,
             "unlinkedCollapsed": true
           },
           "icon": "links-going-out",
@@ -148,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gym.md",
+            "file": "maps.canvas",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -184,8 +184,8 @@
   },
   "active": "c15e6176df25eac7",
   "lastOpenFiles": [
-    "University/project.md",
     "google keynotes.canvas",
+    "University/project.md",
     "/google keynotes.canvas",
     "ST.md",
     "Task.md",

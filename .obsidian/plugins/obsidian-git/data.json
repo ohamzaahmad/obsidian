@@ -17,7 +17,7 @@
   "showStatusBar": false,
   "updateSubmodules": false,
   "syncMethod": "merge",
-  "mergeStrategy": "none",
+  "mergeStrategy": "theirs",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
   "treeStructure": false,

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnin/Explore/To Explore.md",
+                "file": "Work/ST.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "To Explore"
+              "title": "ST"
             }
           }
         ]
@@ -49,20 +49,6 @@
         }
       },
       {
-        "id": "99fd6cb700c59ad9",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency",
-            "showSearch": false,
-            "searchQuery": ""
-          },
-          "icon": "lucide-archive",
-          "title": "All properties"
-        }
-      },
-      {
         "id": "87d03b3f4529a041",
         "type": "leaf",
         "state": {
@@ -74,9 +60,23 @@
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
+      },
+      {
+        "id": "544688564e11541c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 1
   },
   "right": {
     "id": "f7b44648d22a4411",
@@ -104,11 +104,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "87d03b3f4529a041",
+  "active": "89a1060e654fce52",
   "lastOpenFiles": [
+    "learnin/Explore/To Explore.md",
     "Office",
     "2026-05-04.md",
-    "learnin/Explore/To Explore.md",
     "learnin/Explore/Movies & Seasons.md",
     "learnin/Explore/Books to read.md",
     "Office/maps.canvas",
@@ -142,7 +142,6 @@
     "learnin/js/React Js.md",
     "/learnin/js/React Js.md",
     "learnin/js",
-    "learnin",
     "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
     "/Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
     "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md"

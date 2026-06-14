@@ -11,15 +11,14 @@
             "id": "89a1060e654fce52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Task.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Task"
+              "icon": "git-pull-request",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -106,6 +105,8 @@
   },
   "active": "89a1060e654fce52",
   "lastOpenFiles": [
+    "gitignore.txt",
+    "Task.md",
     "maps.canvas",
     "2026-05-04.md",
     "Work/ST.md",
@@ -113,7 +114,6 @@
     "Untitled.base",
     "Untitled Kanban.md",
     "Untitled.md",
-    "Task.md",
     "Bkf/Fabrics.md",
     "Excalidraw/Drawing 2026-06-14 13.49.24.excalidraw.md",
     "Market/Expected System Prices.md",

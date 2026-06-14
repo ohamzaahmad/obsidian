@@ -25,17 +25,14 @@
             "id": "62fecaca665fe997",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "google keynotes.canvas",
-                "viewState": {
-                  "x": -210.37398666895132,
-                  "y": 114.64462676465226,
-                  "zoom": -1.214493960409522
-                }
+                "file": "Bkf/Fabrics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "google keynotes"
+              "icon": "lucide-file",
+              "title": "Fabrics"
             }
           }
         ],
@@ -195,7 +192,6 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "remotely-save:Remotely Save": false,
       "graph:Open graph view": false,
       "publish:Publish changes...": false
     }
@@ -203,15 +199,16 @@
   "active": "62fecaca665fe997",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-06-14 13.49.24.excalidraw.md",
-    "University/Documents Required from University.md",
-    "Excalidraw",
     "Market/Expected System Prices.md",
-    "Task.md",
-    "google keynotes.canvas",
-    "maps.canvas",
+    "University/Documents Required from University.md",
     "University/project.md",
+    "learnin/google keynotes.canvas",
+    "Work",
+    "Excalidraw",
+    "Task.md",
+    "maps.canvas",
     "/google keynotes.canvas",
-    "ST.md",
+    "Work/ST.md",
     "/University/project.md",
     "/University",
     "/Task.md",
@@ -235,7 +232,6 @@
     "Explore/Books to read.md",
     "Market",
     "Explore/Movies & Seasons.md",
-    "University",
     "Explore/To Explore.md",
     "Bkf/Fabrics.md",
     "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",

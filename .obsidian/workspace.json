@@ -1,27 +1,24 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "72e428aaa1850599",
     "type": "split",
     "children": [
       {
-        "id": "406e088a77b74966",
+        "id": "1238dbdc1d05de19",
         "type": "tabs",
         "children": [
           {
-            "id": "02e12f1d72bc14ca",
+            "id": "0de32283cdd65a7a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "google keynotes.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Task.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "google keynotes"
+              "icon": "lucide-file",
+              "title": "Task"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e910d03facd9199e",
@@ -194,48 +190,56 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02e12f1d72bc14ca",
+  "active": "0de32283cdd65a7a",
   "lastOpenFiles": [
-    "google keynotes.canvas",
+    "learnin/google keynotes.canvas",
+    "learnin/Explore/To Explore.md",
+    "learnin/Explore/Movies & Seasons.md",
+    "learnin/Explore/Books to read.md",
+    "learnin/Explore",
+    "Work/Bkf/Fabrics.md",
+    "Work/ST.md",
+    "Work/Bkf",
+    "Work",
+    "Office/maps.canvas",
+    "Office",
     "University/project.md",
     "ST.md",
-    "google.canvas",
-    "maps.canvas",
-    "learnin/js/Bro Code JS.md",
+    "Bkf/Fabrics.md",
     "Task.md",
-    "2026-05-04.md",
     "TS.md",
+    "maps.canvas",
+    "2026-05-04.md",
     "learnin/js/React Js.md",
-    "conflict-files-obsidian-git.md",
+    "learnin/js/Bro Code JS.md",
     "learnin/js",
     "learnin",
-    "Bkf/Fabrics.md",
-    "Explore/To Explore.md",
-    "Explore/Movies & Seasons.md",
-    "Market/Expected System Prices.md",
-    "Explore/Books to read.md",
-    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-27 00.48.56.excalidraw.md",
     "University/Documents Required from University.md",
     "University",
+    "Market/Expected System Prices.md",
     "Market",
+    "Explore/To Explore.md",
+    "Explore/Movies & Seasons.md",
+    "Explore/Books to read.md",
     "Explore",
     "Bkf",
-    "Welcome.md",
-    "Excalidraw"
+    "Gym update.md",
+    "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
+    "Excalidraw/new.md",
+    "Welcome.md"
   ]
 }

@@ -64,16 +64,6 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "607585308d6ad291",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "bookmarks"
-            }
           }
         ]
       }
@@ -118,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -129,7 +119,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab12815619df083c",
+  "active": "1b8fe6dd0a151a48",
   "lastOpenFiles": [
     "Takiza.md",
     "Task.md",

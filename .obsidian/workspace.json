@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "72e428aaa1850599",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "40c77ee1ca6f486a",
+        "id": "ba9e88697aa2983e",
         "type": "tabs",
         "children": [
           {
-            "id": "7f8323fc187f590e",
+            "id": "ab12815619df083c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task.md",
+                "file": "Takiza.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Task"
+              "title": "Takiza"
             }
           }
         ]
@@ -63,6 +63,16 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "607585308d6ad291",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "bookmarks"
             }
           }
         ]
@@ -108,22 +118,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f8323fc187f590e",
+  "active": "ab12815619df083c",
   "lastOpenFiles": [
-    "Office/maps.canvas",
-    "University/New Documents Required from University.md",
+    "Takiza.md",
     "Task.md",
+    "University/New Documents Required from University.md",
+    "2026-05-04.md",
     "learnin/google keynotes.canvas",
     "learnin/Explore/To Explore.md",
     "learnin/Explore/Movies & Seasons.md",
@@ -133,29 +144,31 @@
     "Work/ST.md",
     "Work/Bkf",
     "Work",
+    "Office/maps.canvas",
     "Office",
-    "University/project.md",
-    "ST.md",
-    "Bkf/Fabrics.md",
-    "TS.md",
+    "google keynotes.canvas",
     "maps.canvas",
-    "2026-05-04.md",
-    "learnin/js/React Js.md",
+    "ST.md",
+    "University/project.md",
+    "google.canvas",
     "learnin/js/Bro Code JS.md",
+    "TS.md",
+    "learnin/js/React Js.md",
+    "conflict-files-obsidian-git.md",
     "learnin/js",
     "learnin",
-    "University/Documents Required from University.md",
-    "University",
-    "Market/Expected System Prices.md",
-    "Market",
+    "Bkf/Fabrics.md",
     "Explore/To Explore.md",
     "Explore/Movies & Seasons.md",
+    "Market/Expected System Prices.md",
     "Explore/Books to read.md",
+    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-27 00.48.56.excalidraw.md",
+    "University/Documents Required from University.md",
+    "University",
+    "Market",
     "Explore",
     "Bkf",
-    "Gym update.md",
-    "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md",
-    "Excalidraw/new.md",
     "Welcome.md"
   ]
 }

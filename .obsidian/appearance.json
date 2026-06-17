@@ -4,7 +4,8 @@
   "theme": "obsidian",
   "floatingNavigation": false,
   "baseFontSize": 13,
-  "baseFontSizeAction": false,
-  "interfaceFontFamily": "Source Code Pro",
-  "textFontFamily": "Source Code Pro"
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "JetBrains Mono"
 }

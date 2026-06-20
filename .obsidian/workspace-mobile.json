@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/New Documents Required from University.md",
+                "file": "Task.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "New Documents Required from University"
+              "title": "Task"
             }
           }
         ]
@@ -106,7 +106,11 @@
   },
   "active": "89a1060e654fce52",
   "lastOpenFiles": [
+    "Takiza.md",
     "Task.md",
+    "/Task.md",
+    "/Takiza.md",
+    "University/New Documents Required from University.md",
     "Drawing 2026-06-14 16.42.52.excalidraw.md",
     "Work/ST.md",
     "learnin/Explore/To Explore.md",
@@ -116,7 +120,6 @@
     "learnin/Explore/Books to read.md",
     "Office/maps.canvas",
     "gitignore.txt",
-    "University/New Documents Required from University.md",
     "Untitled.base",
     "Untitled Kanban.md",
     "Untitled.md",
@@ -130,7 +133,6 @@
     "/google keynotes.canvas",
     "/University/project.md",
     "/University",
-    "/Task.md",
     "/Bkf/Fabrics.md",
     "/Bkf",
     "/maps.canvas",
@@ -143,8 +145,6 @@
     "learnin/js/React Js.md",
     "/learnin/js/React Js.md",
     "learnin/js",
-    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
-    "/Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-27 02.13.28.excalidraw.md"
+    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md"
   ]
 }

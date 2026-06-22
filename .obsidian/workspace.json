@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ba9e88697aa2983e",
+        "id": "4486f530d0316f00",
         "type": "tabs",
         "children": [
           {
-            "id": "ab12815619df083c",
+            "id": "08e947d13cc6a0b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Takiza.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Takiza"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -119,10 +118,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b8fe6dd0a151a48",
+  "active": "08e947d13cc6a0b8",
   "lastOpenFiles": [
-    "Takiza.md",
     "Task.md",
+    "Takiza.md",
     "University/New Documents Required from University.md",
     "2026-05-04.md",
     "learnin/google keynotes.canvas",

@@ -1,8 +1,8 @@
 - [x] about
 - [x] gallery
 - [ ] sample images (still waiting for the images)
-- [ ] catalogue (s&s and samsans integeration)
+- [x] catalogue (s&s and samsans integeration)
 	1. i am doing work on the samsans
 - [x] FAQs
 - [x] not TS, It's ST custom printing
-- [ ] need s&s integration instead of Samson's
+- [x] need s&s integration instead of Samson's

@@ -1,5 +1,5 @@
 - [x] update pos
 - [ ] balance is not showing  properly in the ledgers
-- [ ] manage the payment methods transfer, it should be able to add with reference when transfering amount (specially from the chequ)
+- [ ] manage the payment methods transfer, it should be able to add with reference when transfering amount (specially from the cheque)
 - [ ] second fabric type is not getting updated
 - [ ] work on wordpress

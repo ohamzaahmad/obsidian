@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bfbc97df99a36f1d",
+        "id": "03865d6eacfca57a",
         "type": "tabs",
         "children": [
           {
-            "id": "cc5bc06304205ca0",
+            "id": "6c8571158e8fd3b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Search task.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Search task"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -119,24 +118,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc5bc06304205ca0",
+  "active": "6c8571158e8fd3b7",
   "lastOpenFiles": [
-    "General.canvas",
-    "Search task.md",
-    "Work/ST.md",
     "Task.md",
+    "Search task.md",
+    "General.canvas",
+    "Omega/FDPP POS.canvas",
+    "learnin/Explore/Books to read.md",
+    "learnin/Explore/Movies & Seasons.md",
+    "learnin/Explore/To Explore.md",
+    "Self Work/ST.md",
     "Uni/Documents Required.md",
-    "Work/Bkf/Fabrics.md",
+    "Self Work/Bkf/Fabrics.md",
     "Omega/ORTS V2 Changes needed.md",
     "Omega/ORTS Extension.md",
     "learnin/google keynotes.canvas",
     "learnin/js/Bro Code JS.md",
-    "learnin/Explore/To Explore.md",
-    "learnin/Explore/Movies & Seasons.md",
-    "learnin/Explore/Books to read.md",
     "learnin/js/React Js.md",
     "Omega/ORTS 2 readme.md",
-    "Omega/FDPP POS.canvas",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
@@ -156,8 +155,8 @@
     "Takiza.md",
     "2026-05-04.md",
     "learnin/Explore",
-    "Work/Bkf",
-    "Work",
+    "Self Work/Bkf",
+    "Self Work",
     "Office/maps.canvas",
     "Office",
     "google keynotes.canvas",

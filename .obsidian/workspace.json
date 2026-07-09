@@ -4,24 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "4486f530d0316f00",
+        "id": "76d7dafbbd189755",
         "type": "tabs",
         "children": [
           {
-            "id": "08e947d13cc6a0b8",
+            "id": "048ef999e96ed4cb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Task.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Task"
+            }
+          },
+          {
+            "id": "bdfaf084e65765c3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Omega/FDPP POS.canvas",
+                "viewState": {
+                  "x": 43.68166748079682,
+                  "y": 577.737144145709,
+                  "zoom": -1.6666666666666665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "FDPP POS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,9 +137,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08e947d13cc6a0b8",
+  "active": "bdfaf084e65765c3",
   "lastOpenFiles": [
+    "Omega/ORTS Extension.md",
+    "Omega/ORTS V2 Changes needed.md",
+    "Omega/FDPP POS.canvas",
+    "maps.canvas",
+    "Search task.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Omega/ORTS 2 readme.md",
+    "Omega",
     "Task.md",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
+    "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
     "Takiza.md",
     "University/New Documents Required from University.md",
     "2026-05-04.md",
@@ -136,7 +177,6 @@
     "Office/maps.canvas",
     "Office",
     "google keynotes.canvas",
-    "maps.canvas",
     "ST.md",
     "University/project.md",
     "google.canvas",
@@ -145,19 +185,6 @@
     "learnin/js/React Js.md",
     "conflict-files-obsidian-git.md",
     "learnin/js",
-    "learnin",
-    "Bkf/Fabrics.md",
-    "Explore/To Explore.md",
-    "Explore/Movies & Seasons.md",
-    "Market/Expected System Prices.md",
-    "Explore/Books to read.md",
-    "Excalidraw/Drawing 2026-04-27 19.26.49.excalidraw.md",
-    "Excalidraw/Drawing 2026-04-27 00.48.56.excalidraw.md",
-    "University/Documents Required from University.md",
-    "University",
-    "Market",
-    "Explore",
-    "Bkf",
-    "Welcome.md"
+    "learnin"
   ]
 }

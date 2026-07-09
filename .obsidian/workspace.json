@@ -26,17 +26,15 @@
             "id": "bdfaf084e65765c3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Omega/FDPP POS.canvas",
-                "viewState": {
-                  "x": 43.68166748079682,
-                  "y": 577.737144145709,
-                  "zoom": -1.6666666666666665
-                }
+                "file": "Search task.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "FDPP POS"
+              "icon": "lucide-file",
+              "title": "Search task"
             }
           }
         ],
@@ -139,18 +137,26 @@
   },
   "active": "bdfaf084e65765c3",
   "lastOpenFiles": [
-    "Omega/ORTS Extension.md",
-    "Omega/ORTS V2 Changes needed.md",
-    "Omega/FDPP POS.canvas",
     "maps.canvas",
+    "Work/Bkf/Fabrics.md",
+    "University/New Documents Required from University.md",
+    "Omega/ORTS V2 Changes needed.md",
+    "Omega/ORTS Extension.md",
+    "learnin/google keynotes.canvas",
+    "learnin/js/Bro Code JS.md",
+    "learnin/Explore/To Explore.md",
+    "learnin/Explore/Movies & Seasons.md",
+    "learnin/Explore/Books to read.md",
+    "learnin/js/React Js.md",
+    "Task.md",
     "Search task.md",
+    "Omega/ORTS 2 readme.md",
+    "Omega/FDPP POS.canvas",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Omega/ORTS 2 readme.md",
     "Omega",
-    "Task.md",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.svg",
     "Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
@@ -163,14 +169,8 @@
     "Excalidraw/Scripts",
     "Excalidraw",
     "Takiza.md",
-    "University/New Documents Required from University.md",
     "2026-05-04.md",
-    "learnin/google keynotes.canvas",
-    "learnin/Explore/To Explore.md",
-    "learnin/Explore/Movies & Seasons.md",
-    "learnin/Explore/Books to read.md",
     "learnin/Explore",
-    "Work/Bkf/Fabrics.md",
     "Work/ST.md",
     "Work/Bkf",
     "Work",
@@ -180,9 +180,7 @@
     "ST.md",
     "University/project.md",
     "google.canvas",
-    "learnin/js/Bro Code JS.md",
     "TS.md",
-    "learnin/js/React Js.md",
     "conflict-files-obsidian-git.md",
     "learnin/js",
     "learnin"

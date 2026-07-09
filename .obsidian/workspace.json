@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76d7dafbbd189755",
+        "id": "bfbc97df99a36f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "048ef999e96ed4cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Task"
-            }
-          },
-          {
-            "id": "bdfaf084e65765c3",
+            "id": "cc5bc06304205ca0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +22,7 @@
               "title": "Search task"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,11 +119,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdfaf084e65765c3",
+  "active": "cc5bc06304205ca0",
   "lastOpenFiles": [
-    "maps.canvas",
+    "General.canvas",
+    "Search task.md",
+    "Work/ST.md",
+    "Task.md",
+    "Uni/Documents Required.md",
     "Work/Bkf/Fabrics.md",
-    "University/New Documents Required from University.md",
     "Omega/ORTS V2 Changes needed.md",
     "Omega/ORTS Extension.md",
     "learnin/google keynotes.canvas",
@@ -148,8 +135,6 @@
     "learnin/Explore/Movies & Seasons.md",
     "learnin/Explore/Books to read.md",
     "learnin/js/React Js.md",
-    "Task.md",
-    "Search task.md",
     "Omega/ORTS 2 readme.md",
     "Omega/FDPP POS.canvas",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
@@ -171,7 +156,6 @@
     "Takiza.md",
     "2026-05-04.md",
     "learnin/Explore",
-    "Work/ST.md",
     "Work/Bkf",
     "Work",
     "Office/maps.canvas",

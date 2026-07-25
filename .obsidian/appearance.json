@@ -1,12 +1,12 @@
 {
-  "cssTheme": "Paper Source",
+  "cssTheme": "",
   "accentColor": "#794bce",
   "theme": "obsidian",
   "floatingNavigation": false,
-  "baseFontSize": 13,
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrains Mono NL",
-  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
   "showRibbon": true
 }

@@ -1,6 +1,6 @@
 {
-  "cssTheme": "",
-  "accentColor": "#ffc966",
+  "cssTheme": "Vanilla AMOLED",
+  "accentColor": "",
   "theme": "obsidian",
   "floatingNavigation": false,
   "baseFontSize": 16,

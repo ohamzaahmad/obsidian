@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "69ed15e723abe378",
+        "id": "44c6a8cfb9fdb174",
         "type": "tabs",
         "children": [
           {
-            "id": "eabf4c1429a52461",
+            "id": "2e6d8865191df2f4",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
+                "file": "Search task.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: appearance.json"
+              "icon": "lucide-file",
+              "title": "Search task"
             }
           }
         ]
@@ -176,10 +177,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eabf4c1429a52461",
+  "active": "2e6d8865191df2f4",
   "lastOpenFiles": [
-    "Task.md",
     "General.canvas",
+    "Task.md",
     "learnin/js/React Js.md",
     "learnin/js/Bro Code JS.md",
     "learnin/google keynotes.canvas",

@@ -3,10 +3,10 @@
   "accentColor": "#ffc966",
   "theme": "obsidian",
   "floatingNavigation": false,
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "textFontFamily": "Baskerville",
   "monospaceFontFamily": "",
   "showRibbon": true
 }

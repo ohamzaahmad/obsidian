@@ -3,3 +3,4 @@
 - [ ] manage the payment methods transfer, it should be able to add with reference when transfering amount (specially from the cheque)
 - [ ] second fabric type is not getting updated
 - [ ] work on wordpress
+- [ ] hamza arif bhai jan friend

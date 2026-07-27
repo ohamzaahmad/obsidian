@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "03865d6eacfca57a",
+        "id": "f56b2adfe3fa3d40",
         "type": "tabs",
         "children": [
           {
-            "id": "6c8571158e8fd3b7",
+            "id": "69e9e7c0cb76176a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Task.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Task"
             }
           }
         ]
@@ -40,8 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byModifiedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -118,12 +119,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c8571158e8fd3b7",
+  "active": "4780f0b95a43845b",
   "lastOpenFiles": [
     "Task.md",
+    "Excalidraw/Drawing 2026-07-16 16.07.44.excalidraw.md",
+    "Excalidraw",
+    "Omega/FDPP POS.canvas",
     "Search task.md",
     "General.canvas",
-    "Omega/FDPP POS.canvas",
     "learnin/Explore/Books to read.md",
     "learnin/Explore/Movies & Seasons.md",
     "learnin/Explore/To Explore.md",
@@ -151,7 +154,6 @@
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
     "Takiza.md",
     "2026-05-04.md",
     "learnin/Explore",

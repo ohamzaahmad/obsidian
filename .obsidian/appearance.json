@@ -5,8 +5,9 @@
   "floatingNavigation": false,
   "baseFontSize": 16,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "",
-  "textFontFamily": "Baskerville",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "",
-  "showRibbon": true
+  "showRibbon": true,
+  "nativeMenus": true
 }
